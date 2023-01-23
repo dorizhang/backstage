@@ -1,5 +1,11 @@
 # @backstage/plugin-kubernetes-common
 
+## 0.6.0-next.0
+
+### Minor Changes
+
+- 1728c1ef01: **BREAKING**: Renamed misspelled `LimitRangeFetchReponse` to `LimitRangeFetchResponse`.
+
 ## 0.5.1
 
 ### Patch Changes

@@ -194,7 +194,29 @@
     "@backstage/plugin-user-settings-backend": "0.1.4",
     "@backstage/plugin-vault": "0.1.8",
     "@backstage/plugin-vault-backend": "0.2.6",
-    "@backstage/plugin-xcmetrics": "0.2.34"
+    "@backstage/plugin-xcmetrics": "0.2.34",
+    "@backstage/plugin-scaffolder-node": "0.0.0"
   },
-  "changesets": []
+  "changesets": [
+    "bright-eagles-love",
+    "brown-islands-own",
+    "create-app-1674468124",
+    "cyan-deers-walk",
+    "eight-falcons-explode",
+    "flat-cups-itch",
+    "gold-lemons-eat",
+    "gold-masks-sleep",
+    "itchy-goats-melt",
+    "khaki-toes-care",
+    "lazy-badgers-rule",
+    "lazy-badgers-try",
+    "lovely-ladybugs-taste",
+    "perfect-cheetahs-serve",
+    "pink-falcons-serve",
+    "quick-ladybugs-reply",
+    "rare-melons-battle",
+    "shiny-years-tap",
+    "spotty-coats-clean",
+    "twenty-parents-relate"
+  ]
 }
