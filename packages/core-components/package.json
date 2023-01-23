@@ -53,6 +53,7 @@
     "history": "^5.0.0",
     "immer": "^9.0.1",
     "lodash": "^4.17.21",
+    "mdast-util-to-hast": "^12.2.6",
     "pluralize": "^8.0.0",
     "prop-types": "^15.7.2",
     "qs": "^6.9.4",
